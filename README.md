@@ -12,8 +12,7 @@
 
 Ye extension aapko social media websites jaise ki Twitter, Facebook, Instagram, LinkedIn, aur bhi kai websites se roknay mein madad karega jab aap kaam kar rahe ho. Matlab, kaam ke dauran social media se **"Bhatakne Nehi Dunga"!** 😉
 
-![Demo Photo](https://i.ibb.co/r0RScrj/banner.jpg)
-
+![Memes](https://indianmemetemplates.com/wp-content/uploads/2019/01/jor-jor-se-bolke-sabko-scheme-bata-de.jpg)
 ---
 
 ### **Bollywood Dialogues to Inspire**

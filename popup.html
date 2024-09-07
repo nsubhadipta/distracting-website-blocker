@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>URL Blocker</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 200px;
+      }
+      .checkbox-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 5px;
+      }
+      .add-url-container {
+        margin-top: 10px;
+      }
+      input[type="text"] {
+        width: 130px;
+      }
+      .remove-btn {
+        margin-left: 5px;
+        color: red;
+        cursor: pointer;
+      }
+      
+      
+    </style>
+  </head>
+  <body>
+    <h2>Block URLs</h2>
+    <div id="checkboxes"></div>
+    <div class="add-url-container">
+      <input type="text" id="customUrl" placeholder="Add a custom URL" />
+      <button id="addUrl">Add</button>
+    </div>
+    <button id="save">Save</button>
+    <script src="popup.js"></script>
+  </body>
+</html>

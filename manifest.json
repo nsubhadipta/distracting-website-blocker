@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Bhatakne Nehi Dunga",
+  "version": "1.0",
+  "description": "Block specific URLs as per user preferences.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "author":"Subhadipta Nayak",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "./assets/icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "./assets/icon.png",
+    "48": "./assets/icon.png",
+    "16": "./assets/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

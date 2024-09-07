@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Function to normalize the URL
   function normalizeUrl(url) {
     if (!/^https?:\/\//i.test(url)) {
-      url = "http://" + url; // Add default protocol if missing
+      url = "https://" + url; // Add default protocol if missing
     }
     return url.toLowerCase(); // Normalize to lowercase
   }

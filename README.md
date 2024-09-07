@@ -15,16 +15,6 @@ Ye extension aapko social media websites jaise ki Twitter, Facebook, Instagram, 
 ![Memes](https://indianmemetemplates.com/wp-content/uploads/2019/01/jor-jor-se-bolke-sabko-scheme-bata-de.jpg)
 ---
 
-### **Bollywood Dialogues to Inspire**
-
-- "Tumhare paas aane ka maksad kya hai? Social Media Blocker install karo, aur kaam pe dhyan do!" - *In the style of Amitabh Bachchan*
-- "Kaam hi kaam, aur koi social media nahi, yeh hai hamara promise!" - *In the style of Shah Rukh Khan*
-- "Agar aap bhi social media se pareshaan hain, toh yeh extension aapke liye hai!" - *In the style of Salman Khan*
-- "Kaam karo, varna tumhare boss ke gusse se milna padega!" - *In the style of Akshay Kumar*
-- "Social media ko block karna hai, warna productivity ki dhamaal hi khatam ho jayegi!" - *In the style of Ranveer Singh*
-
----
-
 ## Features 🎉
 
 - **Block Social Media Websites**: Because productivity is the new cool.

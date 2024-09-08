@@ -5,7 +5,7 @@ chrome.storage.sync.get("blockedUrls", ({ blockedUrls }) => {
     blockedUrls.forEach((element) => {
       if (element.blocked && currentUrl.includes(element.link)) {
         document.body.innerHTML =
-          '<div><img src="https://i.ibb.co/r0RScrj/banner.jpg" style="margin: 0px auto; height: 100vh; display: flex;"></div>';
+          '<div><img src="https://indianmemetemplates.com/wp-content/uploads/angry-guddu-bhaiyaa-mirzapur-Ali-Fazal-meme-templates-dialogues.jpg" style="margin: 0px auto; height: 100vh; display: flex;"></div>';
       }
     });
   });

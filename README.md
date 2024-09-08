@@ -8,7 +8,7 @@
 
 
 ### **Why This Extension?**
-Because let's face it - we're all guilty of procrastination! But this extension won't just block those distracting sites; it'll do it with style and humor. 😂 Imagine getting a dose of funny Bollywood dialogues every time you dare to open Instagram or Facebook!  😉
+Because let's face it - we're all guilty of procrastination! But this extension won't just block those distracting sites; it'll do it with style and humor. 😂 Imagine having a Gabbar Singh at every social media door, saying, ``Yeh haath mujhe de de, Thakur!`` whenever you try to open Facebook, Twitter, or Instagram. 😜
 ---
 
 ![Memes](https://indianmemetemplates.com/wp-content/uploads/2019/01/jor-jor-se-bolke-sabko-scheme-bata-de.jpg)

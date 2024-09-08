@@ -13,14 +13,14 @@ Because let's face it - we're all guilty of procrastination! But this extension 
 
 ![Memes](https://indianmemetemplates.com/wp-content/uploads/2019/01/jor-jor-se-bolke-sabko-scheme-bata-de.jpg)
 
-## Features 🎉
+## ⚙️ Features 🎉
 
 - **Block Social Media Websites**: Because productivity is the new cool.
 - **Custom URL Blocking**: Add your own URLs, because why should Facebook and Instagram have all the fun? 😆
 - **Showing Memes**: Whenever you try to open a blocked social media website, Boom! - a funny meme appears reminding you to stay focused!
 
 
-## **Tech Stack**
+## 📚 Tech Stack
 
 - **HTML** - Hamara extension ka foundation
 - **CSS** - Thoda style aur glamour
@@ -57,6 +57,12 @@ cd social-media-blocker
 - Add Custom URLs: Enter a URL in the input field and click `Add` to block a new site. Easy peasy.
 - Manage Blocked Sites: Check or uncheck the boxes to enable or disable blocking. It’s like playing a game of website whack-a-mole.
 - Remove Custom URLs: Click the `Remove` button next to custom URLs to delete them. Because everyone deserves a second chance (except those pesky sites).
+
+## 🙇 Author
+- [Subhadipta](https://www.linkedin.com/in/subhadipta-nayak/)
+## License
+Licensed under the [MIT license](https://github.com/nsubhadipta/social-media-blocker/blob/master/LICENSE).
+
 
 
 Stay focused, stay productive, and remember: **Bhatakne Nehi Dunga!** 🐦✨

@@ -13,24 +13,24 @@ Because let's face it - we're all guilty of procrastination! But this extension 
 
 ![Memes](https://indianmemetemplates.com/wp-content/uploads/2019/01/jor-jor-se-bolke-sabko-scheme-bata-de.jpg)
 
-## ⚙️ Features 🎉
+## 🎉 Features 
 
 - **Block Social Media Websites**: Because productivity is the new cool.
 - **Custom URL Blocking**: Add your own URLs, because why should Facebook and Instagram have all the fun? 😆
 - **Showing Memes**: Whenever you try to open a blocked social media website, Boom! - a funny meme appears reminding you to stay focused!
 
 
-## 📚 Tech Stack
+## 🔧🖥️ Tech Stack
 
-- **HTML** - Hamara extension ka foundation
-- **CSS** - Thoda style aur glamour
-- **JavaScript** - Hamare extension ki jaan
+- **HTML 📄** - Hamara extension ka foundation
+- **CSS 🎨** - Thoda style aur glamour
+- **JavaScript ⚙️** - Hamare extension ki jaan
 
 ### **Install Now and Get Back to Work!**
 
 Don't let social media be a distraction. Install the Social Media Blocker extension now and keep your productivity on track. 
 
-## How to Clone and Use This Code 👇
+## 📥 How to Clone and Use This Code 👇
 
 1. **Clone this Blockbuster Repo**:
 Dosti mein no sorry, no thank you. Bas clone aur use karo!
@@ -48,19 +48,19 @@ cd social-media-blocker
 3. **Open the Extension Folder**:
 
 - Go to `chrome://extensions/` in your Chrome browser.
-- Enable  `Developer mode` by toggling the switch at the top right.
+- Enable  `Developer mode` 🛠️ by toggling the switch at the top right.
 - Click `Load unpacked` and select the `social-media-blocker` folder.
 - Test the Extension: Open the extension’s popup, add some URLs, and enjoy watching them get blocked.
 - Celebrate like Govinda: "Kisi Disco Mein Jaye, Kisi Hotel Mein Khaye! Par Kaam Se Bhatakne Na Paye!" 🕺💃
 
-## Usage
+## 🚀 Usage
 - Add Custom URLs: Enter a URL in the input field and click `Add` to block a new site. Easy peasy.
 - Manage Blocked Sites: Check or uncheck the boxes to enable or disable blocking. It’s like playing a game of website whack-a-mole.
 - Remove Custom URLs: Click the `Remove` button next to custom URLs to delete them. Because everyone deserves a second chance (except those pesky sites).
 
 ## 🙇 Author
 - [Subhadipta](https://www.linkedin.com/in/subhadipta-nayak/)
-## License
+## 📜 License
 Licensed under the [MIT license](https://github.com/nsubhadipta/social-media-blocker/blob/master/LICENSE).
 
 

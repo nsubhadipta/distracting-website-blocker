@@ -98,8 +98,9 @@ document.addEventListener("DOMContentLoaded", () => {
   function normalizeUrl(url) {
     if (!/^https?:\/\//i.test(url)) {
       url = "https://" + url; // Add default protocol if missing
+      
     }
-    return url.toLowerCase(); // Normalize to lowercase
+    return url.toLowerCase();
   }
   
   // Function to check for duplicates

@@ -2,20 +2,20 @@
   "manifest_version": 3,
   "name": "Bhatakne Nehi Dunga",
   "version": "1.0",
-  "description": "Block specific URLs as per user preferences.",
+  "description": "Block specific URLs as per user preferences, like Gabbar blocking Ramgarh – No entry! 😆",
   "permissions": ["storage", "activeTab", "scripting"],
   "author":"Subhadipta Nayak",
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "./assets/icon.png"
+    "default_icon": "./assets/icon1.png"
   },
   "background": {
     "service_worker": "background.js"
   },
   "icons": {
-    "128": "./assets/icon.png",
-    "48": "./assets/icon.png",
-    "16": "./assets/icon.png"
+    "128": "./assets/icon1.png",
+    "48": "./assets/icon1.png",
+    "16": "./assets/icon1.png"
   },
   "content_scripts": [
     {

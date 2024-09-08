@@ -1,15 +1,16 @@
 // Initialize the blocked URLs in Chrome storage
 chrome.runtime.onInstalled.addListener(() => {
   const defaultBlockedUrls = [
-    { link: "twitter.com", blocked: true },
-    { link: "facebook.com", blocked: true },
-    { link: "instagram.com", blocked: true },
-    { link: "linkedin.com", blocked: true },
-    { link: "web.whatsapp.com", blocked: true },
-    { link: "reddit.com", blocked: true },
+    { link: "youtube.com", blocked: false },
     { link: "pinterest.com", blocked: true },
-    { link: "discord.com", blocked: true },
+    { link: "linkedin.com", blocked: true },
+    { link: "instagram.com", blocked: true },
+    { link: "web.whatsapp.com", blocked: false },
     { link: "x.com", blocked: true },
+    { link: "facebook.com", blocked: true },
+    { link: "reddit.com", blocked: true },
+    { link: "discord.com", blocked: true },
+    { link: "snapchat.com", blocked: true },
   ];
   chrome.storage.sync.set({ blockedUrls: defaultBlockedUrls });
 });
@@ -20,6 +21,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     chrome.storage.sync.set({ blockedUrls: request.blockedUrls }, () => {
       sendResponse({ status: "success" });
     });
-    return true; // Keep the message channel open for sendResponse
+    return true;
   }
 });

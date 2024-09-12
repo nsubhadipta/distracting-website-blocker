@@ -1,21 +1,21 @@
 {
   "manifest_version": 3,
-  "name": "Bhatakne Nehi Dunga",
-  "version": "1.0",
+  "name": "Bhatakne Nehi Dunga - Distracting website blocker",
+  "version": "2.0",
   "description": "Block specific URLs as per user preferences, like Gabbar blocking Ramgarh – No entry! 😆",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage"],
   "author":"Subhadipta Nayak",
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "./assets/icon1.png"
+    "default_icon": "./assets/icon.png"
   },
   "background": {
     "service_worker": "background.js"
   },
   "icons": {
-    "128": "./assets/icon1.png",
-    "48": "./assets/icon1.png",
-    "16": "./assets/icon1.png"
+    "128": "./assets/icon.png",
+    "48": "./assets/icon.png",
+    "16": "./assets/icon.png"
   },
   "content_scripts": [
     {

@@ -8,9 +8,7 @@
         width: 200px;
       }
       .checkbox-container {
-        display: flex;
-        align-items: center;
-        margin-bottom: 5px;
+        width: auto;
       }
       .add-url-container {
         margin-top: 10px;
@@ -23,18 +21,37 @@
         color: red;
         cursor: pointer;
       }
+      #save{
+        background-image: radial-gradient(100% 100% at 100% 0, #b8ff5a 0, #5aff54 100%);
+        height: 42px;
+        width: 62px;
+        padding: 0px 10px;
+        border: 0;
+        border-radius: 10px;
+      }
+   
       
       
     </style>
   </head>
-  <body>
-    <h2>Block URLs</h2>
-    <div id="checkboxes"></div>
+  <body style="width: auto; background-color: rgb(24, 22, 22); color: white;">
+    <div style="">
+    <h2>Add URL To Block Website</h2>
     <div class="add-url-container">
       <input type="text" id="customUrl" placeholder="Add a custom URL" />
       <button id="addUrl">Add</button>
+      </div>
+      </div>
+    <div style="width: auto;">
+    <div id="checkboxes"></div>
     </div>
-    <button id="save">Save</button>
+    <div class="" style="display: flex;justify-content: space-between; align-items: center;">
+    
+    <div style="width: 100%;
+    display: flex;
+    justify-content: flex-end;"><button id="save" style="color: black; font-weight: 700;">Save</button></div>
+    </div>
+    
     <script src="popup.js"></script>
   </body>
 </html>

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Bhatakne Nehi Dunga - Distracting website blocker",
   "version": "2.0",
-  "description": "Bhatakne Nehi Dunga - Distracting website blocker. Block specific URLs as per user preferences, like Gabbar blocking Ramgarh – No entry! 😆",
+  "description": "Block specific URLs as per user preferences, like Gabbar blocking Ramgarh – No entry! 😆",
   "permissions": ["storage"],
   "author":"Subhadipta Nayak",
   "action": {
